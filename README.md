@@ -1,4 +1,4 @@
-<p align="left" style="font-size:30px;">
+<p align="left" style="font-size:20px;">
     <b><img src="https://github.com/ItsmeHyper13/ItsmeHyper13/blob/SparkelAD1317/SparkelAD/htmlanime.webp" height="30px">
       Hᴇʏ Pᴇᴏᴘʟᴇs
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" alt="Hey">
