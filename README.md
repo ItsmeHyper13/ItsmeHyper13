@@ -67,7 +67,7 @@ while (alive) {
 <IMG SRC="https://github.com/ItsmeHyper13/ItsmeHyper13/blob/SparkelAD1317/SparkelAD/Visitors.png" height="20px"> <a href="https://t.me/HYPER_AD13"><img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=green" height="20px"></a><br>
 <IMG SRC="https://komarev.com/ghpvc/?username=ItsmeHyper13&color=brightgreen&label=PROFILE+VIEWS"><br>
 <IMG Src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FItsmeHyper131212%2Fhit-counter">
-<img src="https://img.shields.io/github/followers/ItsmeHyper13.svg?style=social&label=Follow&maxAge=2592000" alt="Followers">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/ItsmeHyper13?color=black&label=Followers&logo=Hyper-AD&logoColor=green&style=social">
 </p><br>
 <p align="left">
     <details>
