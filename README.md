@@ -80,7 +80,8 @@ while (alive) {
             <p align='center'><b><i>▸ Mʏ Gɪᴛʜᴜʙ Aɴᴀʟɪsɪs᪥</i></b></p>
         </summary>
      <img src="https://github-readme-stats.vercel.app/api?username=ItsmeHyper13&&show_icons=true&title_color=0BEB28&icon_color=EF070B&text_color=daf7dc&bg_color=151515" alt="My GitHub Stats">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsmeHyper13&theme=chartreuse-dark&hide_border=True&bg_color=000000" alt="">
+     <img src="https://github-readme-stats.vercel.app/api?username=ItsmeHyper13&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" alt="lol">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsmeHyper13&theme=chartreuse-dark&hide_border=True&bg_color=000000" alt="lol">
     </details>
     <details>
         <summary>
