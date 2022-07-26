@@ -98,7 +98,7 @@ while (alive) {
         <summary>
             <p align='center'><b><i>▸ Mʏ Gɪᴛʜᴜʙ Tᴏᴘʜʏ Sᴛᴀᴛs𑁍</i></b></p>
         </summary>
-        <img src="https://github-profile-trophy.vercel.app/?username=ItsmeHyper13&row=3&column=3" alt="Github Trophy Stats">
+        <img src="https://github-profile-trophy.vercel.app/?username=ItsmeHyper13&theme=radical&row=2&column=3&no-frame=true&no-bg=true" alt="Github Trophy Stats">
     </details>
 </details>
 </p>
